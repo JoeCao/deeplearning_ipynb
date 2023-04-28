@@ -1,3 +1,5 @@
 /cats_and_dogs_small_1.h5
 /data/cats_and_dogs_small/
 /data/train
+*.h5
+testgpu.py
